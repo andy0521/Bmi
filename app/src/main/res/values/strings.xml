@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BMI</string>
+    <string name="height">height</string>
+    <string name="calculate_bmi">calculate bmi</string>
+    <string name="weight">weight</string>
+    <string name="bmi_info">The body mass index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual.</string>
+    <string name="your_bmi_is">Your BmI is</string>
+    <string name="ok">Ok</string>
+    <string name="clear">clear</string>
 </resources>
